@@ -13,6 +13,7 @@ function App() {
 	const [result2, dispatch] = useReducer(resultReducer, 10);
 
 	// EVENT HANDLERS
+	
 	function handleSumClick() {
 		dispatch({
 			type: "added",
