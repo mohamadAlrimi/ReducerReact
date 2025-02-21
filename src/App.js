@@ -53,6 +53,7 @@ function App() {
 			},
 		});
 	}
+	
 
 	return (
 		<div className="App">
@@ -86,8 +87,8 @@ function App() {
 
 				<button onClick={handleMultClick}>multiply</button>
 
-				<button onClick={handleDivClick}>divide</button>
-
+				<button onClick={handleDivClick} >divide</button>
+				
 				<hr />
 
 				<h2>{result}</h2>
