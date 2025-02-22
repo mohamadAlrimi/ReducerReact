@@ -91,7 +91,7 @@ function App() {
 				
 				<hr />
 
-				<h2>{result}</h2>
+				<h2>   {result}</h2>
 
 				<h2>{result2}</h2>
 			</div>
