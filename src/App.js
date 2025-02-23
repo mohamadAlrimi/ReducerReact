@@ -88,6 +88,7 @@ function App() {
 				<button onClick={handleMultClick}>multiply</button>
 
 				<button onClick={handleDivClick} >divide</button>
+				<button onClick={handleDivClick} >divide</button>
 				
 				<hr />
 
